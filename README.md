@@ -39,7 +39,7 @@ With loading animation:
 
 ```javascript
 import Img from 'react-responsive-img'
-import LoadingAnimation from 'loading-animation
+import LoadingAnimation from 'loading-animation'
 
 const imageComponent = () => {
 	<Img
@@ -55,7 +55,7 @@ With srcset:
 
 ```javascript
 import Img from 'react-responsive-img'
-import LoadingAnimation from 'loading-animation
+import LoadingAnimation from 'loading-animation'
 
 const imageComponent = () => {
 	<Img
