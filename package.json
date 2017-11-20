@@ -1,7 +1,7 @@
 {
   "name": "react-responsive-img",
   "author": "Kennedy Rose <krose@escaladesports.com>",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "scripts": {
     "start": "catalog start docs",
     "test": "jest",
