@@ -1,0 +1,10 @@
+{
+  "name": "react-img",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Kennedy Rose <krose@escaladesports.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.1.1"
+  }
+}
