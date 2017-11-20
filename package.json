@@ -8,6 +8,15 @@
     "type": "git",
     "url": "https://github.com/escaladesports/react-img.git"
   },
+  "keywords": [
+	 "react",
+	 "responsive",
+    "reactjs",
+    "img",
+    "image",
+    "loader",
+    "placeholder"
+  ],
   "dependencies": {
     "react": "^16.1.1"
   }
