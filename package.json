@@ -1,6 +1,6 @@
 {
   "name": "react-responsive-img",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Kennedy Rose <krose@escaladesports.com>",
   "license": "MIT",
@@ -9,8 +9,8 @@
     "url": "https://github.com/escaladesports/react-img.git"
   },
   "keywords": [
-	 "react",
-	 "responsive",
+    "react",
+    "responsive",
     "reactjs",
     "img",
     "image",
