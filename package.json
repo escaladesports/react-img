@@ -4,6 +4,10 @@
   "main": "dist",
   "module": "dist",
   "author": "Kennedy Rose <krose@escaladesports.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escaladesports/react-img.git"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --hot --open --open-page \"/dev\"",
