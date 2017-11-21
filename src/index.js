@@ -33,6 +33,7 @@ export default class extends React.Component {
 		this.setState({ loading: false })
 	}
 	render(){
+		const TagName = this.props.tagName || 'img'
 		return (
 			<div style={{
 				maxWidth: this.props.width,
@@ -43,9 +44,11 @@ export default class extends React.Component {
 					position: 'relative',
 					paddingBottom: `${(this.props.height / this.props.width) * 100}%`
 				}}>
-					<img
-						src={this.props.src}
+					<TagName
+						type={this.props.type}
 						srcSet={this.props.srcSet}
+						sizes={this.props.sizes}
+						src={this.props.src}
 						ref={img => this.img = img}
 						onLoad={this.hideLoader}
 						onError={this.hideLoader}

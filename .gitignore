@@ -15,6 +15,11 @@ dist
 .next
 json
 static
+docs/build/
+dist-es6/
+dist-modules/
+coverage/
+.eslintcache
 
 # Temporary
 temp
