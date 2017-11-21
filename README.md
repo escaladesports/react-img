@@ -59,10 +59,10 @@ import LoadingAnimation from 'loading-animation'
 
 const imageComponent = () => {
 	<Img
-		srcSet='
+		srcSet={`
 			http://via.placeholder.com/125x250 125w,
 			http://via.placeholder.com/250x500 250w,
-		'
+		`}
 		src='http://via.placeholder.com/500x1000'
 		width={500}
 		height={1000}
