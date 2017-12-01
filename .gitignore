@@ -16,8 +16,6 @@ dist
 json
 static
 docs/build/
-dist-es6/
-dist-modules/
 coverage/
 .eslintcache
 
